@@ -32,4 +32,4 @@ See [LICENSE](LICENSE) for the inherited open-source license.
 
 ## WARNING
 
-This is a very early work in progress
+This is a very early work in progress (and no the logo isnt aiits just bad rn)
