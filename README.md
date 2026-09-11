@@ -28,3 +28,8 @@ Supported commands include `:e`, `:enew`, `:w`, `:wq`, `:x`, `:q`, `:qa`,
 ## License
 
 See [LICENSE](LICENSE) for the inherited open-source license.
+
+
+## WARNING
+
+This is a very early work in progress
