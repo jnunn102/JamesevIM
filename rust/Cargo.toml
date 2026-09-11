@@ -1,0 +1,13 @@
+[package]
+name = "jamesevim"
+version = "0.1.0"
+edition = "2021"
+description = "A small Rust editing prototype for JamesevIM"
+license = "Vim"
+
+[dependencies]
+crossterm = "0.28"
+
+[[bin]]
+name = "jamesevim"
+path = "src/main.rs"
